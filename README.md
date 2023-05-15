@@ -1,6 +1,6 @@
 # CDN CRUD Project
 
-This project is a simple CRUD application built using React, Node.js/Express, MongoDB Atlas Cloud, and Bootstrap for the UI part. The application is hosted on Heroku as containers for both the client and server.
+This project is a simple CRUD application built using React, Node.js/Express, MongoDB Atlas Cloud, and Bootstrap for the UI part. The application is hosted on Heroku as containers for both the client and server. # This is for a technical interview question
 
 You can view the live client application here: [https://cdncrudclient.herokuapp.com/](https://cdncrudclient.herokuapp.com/)
 
